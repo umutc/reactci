@@ -15,7 +15,7 @@ ShallowWrapper {
             className="App-logo"
             src="logo.svg" />
         <h2>
-            Welcome to React App
+            Welcome to React App via Travis & Surge
         </h2>
     </div>
     <p
@@ -37,7 +37,7 @@ ShallowWrapper {
                   className="App-logo"
                   src="logo.svg" />
             <h2>
-                  Welcome to React App
+                  Welcome to React App via Travis & Surge
             </h2>
       </div>
       <p
@@ -93,7 +93,7 @@ ShallowWrapper {
                               className="App-logo"
                               src="logo.svg" />
                     <h2>
-                              Welcome to React App
+                              Welcome to React App via Travis & Surge
                     </h2>
           </div>
           <p
@@ -115,7 +115,7 @@ ShallowWrapper {
                               className="App-logo"
                               src="logo.svg" />
                     <h2>
-                              Welcome to React App
+                              Welcome to React App via Travis & Surge
                     </h2>
           </div>
           <p
