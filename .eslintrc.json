@@ -13,7 +13,11 @@
     "rules": {
         "no-console": "off",
         "react/jsx-filename-extension": "off",
-        "react/jsx-wrap-multilines": "off",
+        "jsx-a11y/img-has-alt": "off",
+        "import/no-named-default": "off",
+        "react/jsx-tag-spacing": "off",
+        "react/no-array-index-key": "off",
+        "react/require-default-props": "off",
         "prettier/prettier": [
             "error",
             {
