@@ -1,1 +1,1 @@
-# React ve Redux Kullanarak Web Uygulaması Geliştirme
+# React ve Redux Kullanarak Web Uygulaması Geliştirmesi
