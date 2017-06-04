@@ -24,4 +24,5 @@ deploy:
   provider: surge
   project: ./build/
   domain: umutc-reactci.surge.sh
+  on: ders3
   skip_cleanup: true
