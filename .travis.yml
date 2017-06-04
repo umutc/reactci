@@ -23,5 +23,5 @@ before_deploy:
 deploy:
   provider: surge
   project: ./build/
-  domain: onerous-boys.surge.sh
+  domain: umutc-reactci.surge.sh
   skip_cleanup: true
